@@ -7,7 +7,7 @@ I enjoy working on real-world datasets to uncover trends, build dashboards, and 
 I am continuously learning and improving my skills in data analytics, visualization, and machine learning to grow into a proficient data professional. I am eager to contribute, collaborate, and create impactful solutions using data.
 
 # About Me
-💼 Aspiring Data Analyst
+💼 Aspiring Data Analyst \
 🎓 Master of Computer Application
 
 ### Tools and Languages
