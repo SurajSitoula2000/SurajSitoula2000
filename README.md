@@ -15,7 +15,7 @@ I am continuously learning and improving my skills in data analytics, visualizat
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) \
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black) \
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) \
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) \
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 
 
 ## Projects
