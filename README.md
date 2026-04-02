@@ -25,7 +25,3 @@ I am continuously learning and improving my skills in data analytics, visualizat
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-sitoula/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajsitoula88@gmail.com)
 
-<!--
-**SurajSitoula2000/SurajSitoula2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
